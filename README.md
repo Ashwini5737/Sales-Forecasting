@@ -83,14 +83,3 @@ The models were evaluated using the following metrics:
 - Investigate hybrid models combining the strengths of different approaches.
 - Apply advanced feature engineering techniques to enhance forecasting accuracy.
 
-## References
-
-Refer to the `References` section in the project report for a detailed bibliography.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-For any questions or suggestions, feel free to open an issue or contact the authors.
