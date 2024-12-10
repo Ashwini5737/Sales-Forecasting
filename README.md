@@ -55,7 +55,7 @@ The models were evaluated using the following metrics:
 ```
 .
 ├── data/                   # Dataset files (not included due to size; see Kaggle link)
-├── notebooks/              # Jupyter notebooks for model implementation
+├── notebook/              # Jupyter notebooks for model implementation
 ├── README.md               # Project overview (this file)
 ```
 
@@ -71,7 +71,7 @@ The models were evaluated using the following metrics:
    - Download the dataset from [Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) and place it in the `data/` directory.
 
 3. **Run the Notebooks:**
-   - Explore the `notebooks/` folder for model implementation and analysis.
+   - Explore the `notebook/` folder for model implementation and analysis.
 
 ## Key Insights
 
